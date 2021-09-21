@@ -1,0 +1,40 @@
+.carousel-background{
+ background:#fceae8;
+}
+.price{
+ color:#FF136F;
+}
+.buy-now-button{
+ background:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+ cursor:pointer;
+ border-radius:5px;
+ padding:6px 10px;
+}
+.cat-1,.cat-2,.cat-3{
+border-radius: 10px;
+padding:10px 20px;
+}
+.cat-1{
+ background: orange;
+}
+.cat-2{
+ background: purple;
+}
+.cat-3{
+ background: blue;
+}
+.card{
+ border:none;
+ box-shadow:4px 4px 10px gray;
+ border-radius:5px;
+}
+.card-footer{
+ background:#FFF;
+ border: none;
+}
+.contuct{
+ background:#fceae8;
+}
+.footer{
+ text-align:center;
+}
