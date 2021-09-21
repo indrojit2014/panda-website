@@ -1,0 +1,12 @@
+.carousel-background{
+ background:#fceae8;
+}
+.price{
+ color:#FF136F;
+}
+.buy-now-button{
+ background:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+ cursor:pointer;
+ border-radius:5px;
+ padding:6px 10px;
+}
